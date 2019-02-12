@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oveiyeku.vaultli.com/sitemap.xml
